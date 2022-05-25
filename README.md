@@ -80,6 +80,11 @@ Este comando descargará las librerías requeridas para el proyecto, y ejecutar�
 
 El modo "desarrollo" habilita la opción "hot reload". Es decir, se pueden modificar los archivos y se recompilaran mientras se ejecuta la aplicación.
 
+5) Actividades
+a) Ejecutar la aplicación y navegar a http://localhost:8090 en el navegador de tu elección.
+![image](https://user-images.githubusercontent.com/50935905/170385621-2cb16ce6-6686-4073-8d18-d962ae059b4a.png)
 
- 
+b) Navegar al explorador de Swagger integrado, con http://localhost:8090/docs
+![image](https://user-images.githubusercontent.com/50935905/170385658-cfc951c7-839d-4bf3-b208-972d3a21aa32.png)
+
 
